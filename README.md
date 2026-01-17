@@ -23,3 +23,4 @@ I am a Computer Science and Engineering student. Learning python
 Practiced Python today
 practiced python new beginning
 practiced python day1
+practiced python day2
