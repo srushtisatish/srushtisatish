@@ -20,15 +20,15 @@ I am a Computer Science and Engineering student. Learning python
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-Practiced Python today
-practiced python new beginning
-practiced python day1
-practiced python day2
-def count_substring(string, sub_string):
-    count=0
-    j=len(sub_string)
-    for i in range(0,len(string)):
-        if sub_string[0]==string[i]:
-            if sub_string==string[i:i+j]:
-                count+=1
+repo name == srushtisatish
+python daily practice // with skill developement
+python new beginning
+day 1 - practiced python
+ -basics and still learning about github
+day 2 - practiced python 
+ -problems on operators
+day 3 - hackerrank problems 
+ -learnt how to use github actually
+ -started to create a python files in github and coding the programs there
+ -based on strings and string slicing
             
