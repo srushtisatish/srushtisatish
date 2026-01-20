@@ -31,4 +31,6 @@ day 3 - hackerrank problems
  -learnt how to use github actually
  -started to create a python files in github and coding the programs there
  -based on strings and string slicing
-            
+ day-4 _ practiced python but forgot to edit here
+ day-5 - iam python practicing for sem end exams 
+   ---all basic and medium level problems
