@@ -34,3 +34,5 @@ day 3 - hackerrank problems
  day-4 _ practiced python but forgot to edit here
  day-5 - iam python practicing for sem end exams 
    ---all basic and medium level problems
+ day-6--example programs on strings and lists
+ ---worked more problems on string slicing and list problems
