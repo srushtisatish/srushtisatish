@@ -36,3 +36,5 @@ day 3 - hackerrank problems
    ---all basic and medium level problems
  day-6--example programs on strings and lists
  ---worked more problems on string slicing and list problems
+ day-7-- example programs on oop 
+ -----worked more problems on oop
