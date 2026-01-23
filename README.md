@@ -38,3 +38,5 @@ day 3 - hackerrank problems
  ---worked more problems on string slicing and list problems
  day-7-- example programs on oop 
  -----worked more problems on oop
+ day-8--example programs on inheritance basics
+ -----basic problems of inheritance and bit theory
